@@ -8,6 +8,8 @@ The **Libravatar** plugin is based on the Gravatar plugin that comes default wit
 
 Avatars are retrieved from [Libravatar](https://www.libravatar.org/). They are retrieved based on a user's email address.
 
+Original plugin can be found [here](https://github.com/mantisbt/mantisbt/tree/master/plugins/Gravatar)
+
 ## TODO
 
 The future plan is to extend this plugin to allow an administrator choose the libravatar API supported site, instead of relying on just libravatar. This may require having to bring back "ratings"

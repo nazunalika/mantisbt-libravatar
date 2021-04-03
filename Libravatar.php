@@ -15,7 +15,9 @@
  * You should have received a copy of the GNU General Public License
  * along with MantisBT.  If not, see <http://www.gnu.org/licenses/>.
  *
- * @copyright Copyright Louis Abel label@rockylinux.org
+ * @copyright Copyright MantisBT Team - mantisbt-dev@lists.sourceforge.net
+ *
+ * Modifications by: Louis Abel <label@rockylinux.org>
  */
 
 /**
